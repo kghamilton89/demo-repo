@@ -1,4 +1,4 @@
-Each of the words included in this document appear on the list of forbidden words, according to Axibase technical writing guidelines. The list is intentionally misnumbered for testing purposes.
+Each of the words included in this document appears on the list of forbidden words, according to Axibase technical writing guidelines. The list is intentionally misnumbered for testing purposes.
 
 1. can't
 2. curl
