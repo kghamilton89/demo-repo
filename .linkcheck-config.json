@@ -1,0 +1,7 @@
+{
+    "ignorePatterns": [
+        { "pattern": "https://cdec.water.ca.gov/index.html"}
+        ,{ "pattern": "https://nylottery.ny.gov/wps/portal/.*"}
+        
+        
+]}
